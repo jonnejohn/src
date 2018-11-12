@@ -1,0 +1,9 @@
+{
+"model_id": "655625500",
+"object_id": "0",
+"url":"http://localhost/QPR2017-1/Portal/QPR.Isapi.dll",
+"apiurl":"http://localhost:61814/",
+"webservice":"http://127.0.0.1/QPR2017-1/Portal/QPR.Isapi.dll/wsforward/MainService.svc/wsHttp/",
+"view_id":"148929587",
+"strg":"Marketing"
+}
